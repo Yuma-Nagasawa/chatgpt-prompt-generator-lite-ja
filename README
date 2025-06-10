@@ -29,11 +29,12 @@
 ---
 
 ## 📂 リポジトリ構成
-Generative-AI-prompts
+markdown<br>
+chatgpt-prompt-generator-lite-ja/
 ├─ プロンプト生成Lite/
-│ └─ prompt-generator-lite.md # 💡 メインテンプレ（コピペ用）
-└─ README.md # ← 今ご覧のファイル
----
+│ └─ prompt-generator-lite.md
+└─ README.md
+```
 
 ## 🤝 コントリビュート歓迎
 - バグ報告・改善 PR 大歓迎です  
