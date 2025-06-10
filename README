@@ -1,5 +1,72 @@
+# 🚀 Prompt-Generator-Lite
+
+**30 秒で要件定義表を自動生成 → 作業工数 -86 %！**
+
+![demo](docs/30sec-demo.gif)  
+<sub>※ GIF が動かない場合は画像をクリック／タップしてください</sub>
+
+---
+
+## 🔥 いますぐ試す（PC & モバイル対応）
+
+1. **Lite テンプレートを開く**  
+   👉 [`prompt-generator-lite.md`](https://raw.githubusercontent.com/Yuma-Nagasawa/Generative-AI-prompts/main/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E7%94%9F%E6%88%90Lite/prompt-generator-lite.md)
+
+2. **コピーする**  
+   - **PC:** `Ctrl + A` → `Ctrl + C`  
+   - **スマホ:** _長押し → すべて選択 → コピー_
+
+3. **ChatGPT に貼り付けて Enter**  
+   → 30 秒後に “要件定義表（CSV 形式）” が完成！
+
+> **機密データ入力ゼロ** だから安心。  
+> 出力された表をそのまま Excel／Google Sheets に貼れば PoC が即スタート。
+
+---
+
+## 🎁 もっと効率化したい方へ
+[![Udemy 完全版はこちら](https://img.shields.io/badge/Udemy-完全版はこちら-FF6B00?logo=Udemy&logoColor=white)](https://www.udemy.com/course/xxx/learn/lecture/50448327/?couponCode=LITE1200&referralCode=GH01)
+
+| できること | Lite | **完全版** |
+|---|:--:|:--:|
+| 15 業務別テンプレ | ✓ | **✓✓** |
+| ZIP 一括ダウンロード | － | ✔ |
+| 動画解説 & 実演チャプター | － | ✔ |
+| 法人ライセンス利用 | － | ✔ |
+
+> **期間限定クーポン `LITE1200`** で **¥1,200**（7 日／30 枚限定）
+
+---
+
+## 📂 リポジトリ構成
+Generative-AI-prompts
+├─ プロンプト生成Lite/
+│ └─ prompt-generator-lite.md # 💡 メインテンプレ（コピペ用）
+├─ docs/
+│ └─ 30sec-demo.gif # 実行イメージ GIF
+└─ README.md # ← 今ご覧のファイル
+
+yaml
+コピーする
+
+---
+
+## 🤝 コントリビュート歓迎
+- バグ報告・改善 PR 大歓迎です  
+- **完全版購入者向けプラグイン** も準備中！
+
+---
+
 ## 免責事項
 本リポジトリで提供するプロンプトは教育目的の参考資料です。使用による損害・不利益について、筆者は一切の責任を負いません。
 
 ## ご注意
-本プロンプトの使用にあたり、各サービスの利用規約、プライバシーポリシー、知的財産権に十分ご配慮ください。
+本プロンプトの使用にあたり、各サービスの利用規約・プライバシーポリシー・知的財産権に十分ご配慮ください。
+
+## ライセンス
+MIT License  
+（ただし本テンプレートを第三者に **再販・再配布** する行為は禁止とさせていただきます）
+
+---
+
+> **@Nagasawa Yuma** – ご質問は [Discussions](../../discussions) までお気軽に！
