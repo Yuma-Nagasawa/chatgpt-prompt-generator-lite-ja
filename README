@@ -29,7 +29,6 @@
 ---
 
 ## 📂 リポジトリ構成
-markdown<br>
 chatgpt-prompt-generator-lite-ja/
 ├─ プロンプト生成Lite/
 │ └─ prompt-generator-lite.md
