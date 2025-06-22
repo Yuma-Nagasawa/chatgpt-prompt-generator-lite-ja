@@ -21,7 +21,7 @@
 ---
 
 ## 🎁 もっと効率化したい方へ
-[![完全版はUdemyで](https://www.udemy.com/course/ai-goabg/?referralCode=286E366C31E5E0EBCCFF)
+[完全版はUdemyで](https://www.udemy.com/course/ai-goabg/?referralCode=286E366C31E5E0EBCCFF)
 ---
 
 ## 📂 リポジトリ構成
